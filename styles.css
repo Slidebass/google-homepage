@@ -49,6 +49,42 @@ header {
 	font-weight: 500;
 }
 
+.img {
+	width: 100%;
+	text-align: center;
+	padding-top: 110px;
+}
+
+.text-field {
+	width: 100%;
+	text-align: center;
+	padding-top: 23px;
+}
+
+#field {
+	width: 582px;
+	height: 44px;
+	border-radius: 24px;
+	border: 1px solid #dfe1e5;
+}
+
+#field:hover {
+	box-shadow: 0.2px 0.2px 8px rgb(209, 209, 209);
+}
+
+.buttons {
+	width: 100%;
+	text-align: center;
+	padding-top: 35px;
+}
+
+#search {
+	width: 93px;
+	height: 34px;
+	border-radius: 4px;
+	background-color: #f2f2f2;
+}
+
 footer {
 	position: fixed;
 	bottom: 0px;
