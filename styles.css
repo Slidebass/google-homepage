@@ -104,6 +104,10 @@ header {
 	color: #222;
 }
 
+#search:focus {
+	outline: none;
+}
+
 #lucky {
 	width: 140px;
 	height: 36px;
@@ -120,6 +124,10 @@ header {
 #lucky:hover {
 	border: 1px solid #c6c6c6;
 	color: #222;
+}
+
+#lucky:focus {
+	outline: none;
 }
 
 footer {
